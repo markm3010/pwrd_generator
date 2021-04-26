@@ -14,4 +14,4 @@ for _ in range(total_chars):
     members.append(random.choice(chars))
 
 [print(s, end='') for s in members]
-print(password)
+# print(password)
